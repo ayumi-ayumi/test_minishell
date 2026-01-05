@@ -1,6 +1,10 @@
 #include "stdio.h"
 int main()
 {
-	printf("This is Ayumi.");
+	int i = 0;
+	while (i++ <= 2)
+	{
+		printf("This is Ayumi.");
+	}
 	return (0);
 }
