@@ -1,1 +1,5 @@
-hello world and hello Ayumi!
+#include "stdio.h"
+int main()
+{
+	printf("This is Ayumi.");
+}
